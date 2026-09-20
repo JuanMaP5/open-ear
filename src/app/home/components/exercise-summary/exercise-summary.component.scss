@@ -20,6 +20,7 @@
     margin: 0;
     --padding-start: #{$unit};
     --padding-end: #{$unit};
+    --color: var(--ion-color-medium);
   }
 
   &__icon {
